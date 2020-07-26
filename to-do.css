@@ -1,0 +1,22 @@
+#list
+{
+    text-align: center;
+}
+body{
+    background-color: red;
+  
+}
+h1{
+    text-align: center;
+    color:white;
+}
+button{
+    background-color: black;
+    color:white;
+    border:none;
+    font-family: 'Courier New', Courier, monospace;
+}
+p{
+    color:white;
+    text-align: center;
+}
